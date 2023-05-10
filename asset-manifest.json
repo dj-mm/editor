@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dj-mm/editor/static/css/main.daaf227b.css",
-    "main.js": "/dj-mm/editor/static/js/main.293656ad.js",
-    "static/js/787.f0a7753d.chunk.js": "/dj-mm/editor/static/js/787.f0a7753d.chunk.js",
-    "index.html": "/dj-mm/editor/index.html",
-    "main.daaf227b.css.map": "/dj-mm/editor/static/css/main.daaf227b.css.map",
-    "main.293656ad.js.map": "/dj-mm/editor/static/js/main.293656ad.js.map",
-    "787.f0a7753d.chunk.js.map": "/dj-mm/editor/static/js/787.f0a7753d.chunk.js.map"
+    "main.css": "/editor/static/css/main.daaf227b.css",
+    "main.js": "/editor/static/js/main.c2bcd581.js",
+    "static/js/787.f0a7753d.chunk.js": "/editor/static/js/787.f0a7753d.chunk.js",
+    "index.html": "/editor/index.html",
+    "main.daaf227b.css.map": "/editor/static/css/main.daaf227b.css.map",
+    "main.c2bcd581.js.map": "/editor/static/js/main.c2bcd581.js.map",
+    "787.f0a7753d.chunk.js.map": "/editor/static/js/787.f0a7753d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.daaf227b.css",
-    "static/js/main.293656ad.js"
+    "static/js/main.c2bcd581.js"
   ]
 }
